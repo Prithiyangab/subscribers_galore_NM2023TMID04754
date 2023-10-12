@@ -11,4 +11,4 @@ story link
 https://public.tableau.com/app/profile/prithiyanga.bintu.mani/viz/subscribersgallore/Story1
 
 video link
-https://drive.google.com/file/d/1sabWtNDa62JGAz9j9pQY5cnkgab-lVhU/view?usp=drivesdk
+https://drive.google.com/file/d/1-q-_SM_Up4IF5oX-5mk2iaiDldd8QDkj/view?usp=drivesdk
